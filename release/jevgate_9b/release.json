@@ -1,5 +1,6 @@
 {
   "model": "JevGate-9B",
+  "weights_hosted_at": "https://huggingface.co/lihaoran51/JevGate-9B",
   "selected_checkpoint": "checkpoint-2000",
   "initialized_from": "jaredpalmer/kev-9b",
   "base_model": "Qwen/Qwen3.5-9B-Base",
@@ -38,3 +39,4 @@
   "base_weights_included": false,
   "training_data_included": false
 }
+
