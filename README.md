@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<h1>🩺 HealthClaw: Self-Evolving Personal Health Copilot</h1>
+<h1>🩺 HealthJev: Self-Evolving Personal Health Copilot</h1>
 
 An open-source self-evolving agent stack for medical consultation support, personal health management, and multimodal health analytics
 
 <br/>
 
-<img src="./docs/readme_media/healthclaw.png" alt="HealthClaw" width="220" />
+<img src="./docs/readme_media/healthclaw.png" alt="HealthJev" width="220" />
 
 <br/>
 <br/>
@@ -34,7 +34,8 @@ An open-source self-evolving agent stack for medical consultation support, perso
 
 ## What’s new
 
-- **March 22, 2026:** HealthClaw public release.
+- **October 26, 2026:** HealthJev release: the longitudinal MIMIC-IV benchmark and the six-task biomedical evaluation suite are now available under [`release/`](./release); JevGate-9B weights are hosted on Hugging Face (see `release/jevgate_9b/` for checksums and download instructions).
+- **March 22, 2026:** Initial public release.
 
 ---
 
@@ -57,7 +58,7 @@ An open-source self-evolving agent stack for medical consultation support, perso
 </p>
 
 <p align="left"><em>☝️ Want steadier eating this week without a few generic “eat less grease” lines in chat?<br/>
-HealthClaw acts like a reliable meal buddy: you describe how you want to eat; it drafts a month-long plan;<br/>
+HealthJev acts like a reliable meal buddy: you describe how you want to eat; it drafts a month-long plan;<br/>
 when dinner time hits, it does not stop at one suggestion—it searches delivery apps, logs what happened, and pushes recommendations to chat while you make the call.</em></p>
 
 <br/>
@@ -100,7 +101,7 @@ it reads device-side data in order and produces one consolidated report—scores
 </p>
 
 <p align="left"><em>☝️ Beyond “do I have it now,” many people care about “what should I guard against in the coming years.”<br/>
-HealthClaw can connect case records to surface future risk in a clearer view from messy notes,<br/>
+HealthJev can connect case records to surface future risk in a clearer view from messy notes,<br/>
 and support clinicians for deeper analysis—always as decision support, not a diagnosis.</em></p>
 
 <p align="center">
@@ -254,4 +255,4 @@ We are grateful for the following excellent projects. If you’re interested, pl
 
 
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=HC-Guo/HealthClaw&type=Date)](https://star-history.com/#HC-Guo/HealthClaw&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=HC-Guo/Self-Evolving_HealthJev&type=Date)](https://star-history.com/#HC-Guo/Self-Evolving_HealthJev&Date)

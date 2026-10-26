@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<h1>🩺 HealthClaw: 自进化个人健康管家</h1>
+<h1>🩺 HealthJev：自进化个人健康管家</h1>
 
 面向医学咨询辅助、个人健康管理与多模态健康分析的自进化 Agent 系统
 
 <br/>
 
-<img src="./docs/readme_media/healthclaw.png" alt="HealthClaw" width="220" />
+<img src="./docs/readme_media/healthclaw.png" alt="HealthJev" width="220" />
 
 <br/>
 <br/>
@@ -34,7 +34,8 @@
 
 ## 📣 最新动态
 
-- **2026 年 3 月 22 日**：HealthClaw 正式发布。
+- **2026 年 10 月 26 日**：HealthJev 发布：MIMIC-IV 纵向基准与六任务生物医学评测套件已开放于 [`release/`](./release)；JevGate-9B 权重托管于 Hugging Face（校验信息与下载说明见 `release/jevgate_9b/`）。
+- **2026 年 3 月 22 日**：首次公开发布。
 
 ---
 
@@ -56,7 +57,7 @@
 </p>
 
 <p align="left"><em>☝️ 想这周吃得更稳，却不想只在对话框里收到几条「少吃油腻」？<br/>
-HealthClaw 会像靠谱的饭搭子：你随口说说这周想怎么吃，它听懂后先铺一张整月的饮食底稿；<br/>
+HealthJev 会像靠谱的饭搭子：你随口说说这周想怎么吃，它听懂后先铺一张整月的饮食底稿；<br/>
 到点要吃晚餐时，它不甩一句建议就结束，而是真的去外卖 App 里搜一圈，把过程和结论留在日志里，再把饮食推荐推送到聊天界面——你只管拍板。</em></p>
 
 <br/>
@@ -100,7 +101,7 @@ HealthClaw 会像靠谱的饭搭子：你随口说说这周想怎么吃，它听
 </p>
 
 <p align="left"><em>☝️ 很多人不止关心“现在有没有病”，更关注“未来几年我该防范什么”。<br/>
-HealthClaw 可串接病例记录，帮你看清未来患病风险，繁杂的病例信息变成更为直观的风险判断，<br/>
+HealthJev 可串接病例记录，帮你看清未来患病风险，繁杂的病例信息变成更为直观的风险判断，<br/>
 也能辅助医生进一步分析，为你的未来健康保驾护航。</em></p>
 
 <p align="center">

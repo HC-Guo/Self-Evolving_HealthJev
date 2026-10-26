@@ -18,7 +18,7 @@ assets/tmwd_cdp_bridge/config.js
 # === Runtime artifacts ===
 temp/
 tmp/
-healthclaw/
+/healthclaw/
 
 # === Python ===
 __pycache__/

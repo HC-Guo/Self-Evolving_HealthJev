@@ -1,0 +1,142 @@
+{
+  "version": "release-1",
+  "generated_at": "2026-10-25T14:36:14+00:00",
+  "user_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "counts": {
+    "users": 20,
+    "days": 1800,
+    "goals": 4680
+  },
+  "files": {
+    "goals/3.json": {
+      "bytes": 349325,
+      "sha256": "c1525e23652b4ff76fbc50654aa0546d354c23ff012c10305b7b75ec62d8f272"
+    },
+    "goals/11.json": {
+      "bytes": 410259,
+      "sha256": "72adff222621c0c624a0748574a47193d20a2d530408b6e4b112ab2f81244e7b"
+    },
+    "goals/1.json": {
+      "bytes": 318971,
+      "sha256": "44267ff3d2f1cb6095c074e939916e40ff7b4c2886aa3233e3e7f9e40983e4af"
+    },
+    "goals/8.json": {
+      "bytes": 387305,
+      "sha256": "e546de74b871a3398a445e8e03a7e0d4a7cf66281ff1caab746b7f487f6a78cb"
+    },
+    "goals/20.json": {
+      "bytes": 406050,
+      "sha256": "2b5448a15ff0523f1f41dd6cc79d9d6e876ad953ce1fbccef56ec19b10263c8f"
+    },
+    "goals/13.json": {
+      "bytes": 329975,
+      "sha256": "4e338297b749909678a8caa78d75e22fc609c9886c161cf1ce22fd13ee7c572d"
+    },
+    "goals/4.json": {
+      "bytes": 398609,
+      "sha256": "5c43be3cf6abcb86e5d720f65dcf5c76345e9c27a922b33d1fa1c917847c2bbe"
+    },
+    "goals/17.json": {
+      "bytes": 400077,
+      "sha256": "54062f9c7db039a111a982887475f1d472e3021a102a27d3dad0d7d17a9e4776"
+    },
+    "goals/5.json": {
+      "bytes": 431102,
+      "sha256": "4ffc1f43002582ce61feae55cf4e096c3321e16605deab8553ca1524a4ce4b34"
+    },
+    "goals/10.json": {
+      "bytes": 367038,
+      "sha256": "b78d7233ba8b1e4a79f8cbdf6db2c65eafa0f2fb00a49607834b999fa595e135"
+    },
+    "goals/7.json": {
+      "bytes": 395592,
+      "sha256": "b48d14da26fcfff1ef1ebf5842865e38a451d63880917325ea18ec08dc502e2c"
+    },
+    "goals/19.json": {
+      "bytes": 288064,
+      "sha256": "49513f47b173bdfb7308aff9f5586fd918427388b07f16adedcb1d38bb0687c0"
+    },
+    "goals/12.json": {
+      "bytes": 308819,
+      "sha256": "6a04ef0c0b6288edb9af6e5ac8c50890f6229e97409c316b6fdf5f8810cc0481"
+    },
+    "goals/15.json": {
+      "bytes": 424733,
+      "sha256": "8e327cfc1e14ff49d9fa6f42bebbea26bf50bee35821d05b836f2a8995339853"
+    },
+    "goals/14.json": {
+      "bytes": 439618,
+      "sha256": "c813be2d5990bfcca9f864c739ae9ea3d92f4425918241b35bfb732b87873ae3"
+    },
+    "goals/18.json": {
+      "bytes": 363769,
+      "sha256": "8b688e409d4324ac8e6d6f44921698caeb167736afcd5b68710849a5cb476896"
+    },
+    "goals/9.json": {
+      "bytes": 334758,
+      "sha256": "33a6d061647b5ff5a75fb0e2c001b73f69f0b8ea8326183ab3d5b05e061e2e8b"
+    },
+    "goals/16.json": {
+      "bytes": 319053,
+      "sha256": "4046476ae027e4f6a9d4a23b995033e643d4de1d8c181ada0815b14a00558a9d"
+    },
+    "goals/6.json": {
+      "bytes": 299372,
+      "sha256": "6baccec8c8ee6b1b7e287a9bf02607c1b42b387bff247b273f059b566e598206"
+    },
+    "goals/2.json": {
+      "bytes": 423312,
+      "sha256": "5b738e683656417e9e390533ed6706dad9d20c5d41784bb9d16bf4323a23c0fb"
+    },
+    "governance_probes.json": {
+      "bytes": 70514,
+      "sha256": "9693b8e949a32a5b34985e15c0789d2fd1a7c24b7e65f5b782bcb1063941a4ff"
+    },
+    "personas.json": {
+      "bytes": 49190,
+      "sha256": "d2e90afc7f6313feb3b51f05153e530854d494261533fe8b35081f880a1c8e79"
+    }
+  },
+  "known_issues": {
+    "missing_traps": {
+      "users_without_registered_traps": 11,
+      "detail": "部分用户在陷阱注册表中无任何登记陷阱（构造批次历史遗留）；这些用户的治理类考察以日级 privacy 标注为准。"
+    },
+    "occasional_cue_leak": {
+      "proactive_quote_leaks": 19,
+      "supersession_value_leaks": 17,
+      "trap_signature_missing": 12,
+      "detail": "少量 proactive 钩子台词含历史 quote、supersession 台词含答案数值，或陷阱签名词未落在当日台词；属基准内容层面的问题，对所有被评测系统对称，不构成对任一系统的偏置。"
+    }
+  },
+  "anonymization": {
+    "method": "source subject_id -> public id 1..20 random bijection (secrets.SystemRandom)",
+    "rewritten_fields": "subject_id and G/F/T id prefixes only; clinical values and dialogue text unchanged",
+    "id_mapping": "public->source mapping stored OUTSIDE the release at a user-controlled path"
+  },
+  "notes": [
+    "数据为 MIMIC 派生（受控）；本 manifest 与导出不构成许可或再分发授权。",
+    "personas 为安全白名单渲染（demo/persona/clinical{conditions,allergies}），非完整源画像。"
+  ]
+}
