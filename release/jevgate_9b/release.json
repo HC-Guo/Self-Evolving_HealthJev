@@ -1,0 +1,42 @@
+{
+  "model": "JevGate-9B",
+  "weights_hosted_at": "https://huggingface.co/lihaoran51/JevGate-9B",
+  "selected_checkpoint": "checkpoint-2000",
+  "initialized_from": "jaredpalmer/kev-9b",
+  "base_model": "Qwen/Qwen3.5-9B-Base",
+  "base_revision": "68c46c4b3498877f3ef123c856ecfde50c39f404",
+  "loading": "base + released LoRA + released pointer head; no second upstream adapter",
+  "lora_rank": 16,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05,
+  "pointer_head_dim": 256,
+  "temperature": 1.0,
+  "trained_tensor_values_modified_for_release": false,
+  "evaluation_threshold": 0.5,
+  "deployment_thresholds": {
+    "diabetes_readmission": 0.88,
+    "geneturing": 0.38,
+    "odir5k": 0.90,
+    "icu_sofa": 0.50,
+    "mimic_icd": 0.52,
+    "medcalc": 0.30
+  },
+  "files": {
+    "adapter_model.safetensors": {
+      "bytes": 173178096,
+      "sha256": "cf1827f87615b821e78ae1f5b2957df79494829cda9209993d587186e55fc0a3"
+    },
+    "head.pt": {
+      "bytes": 8393087,
+      "sha256": "e3f0b2b40be1f188e4d5baf59a852eaa3c943e7f350c413199ca9801f8e4d49f"
+    },
+    "adapter_config.json": {
+      "bytes": 1309,
+      "sha256": "613f8e0634a7f7e19d391067b66c0fb33cf9a4bc47aefbd2af30087b16d08bfe"
+    }
+  },
+  "license": "Apache-2.0",
+  "base_weights_included": false,
+  "training_data_included": false
+}
+
