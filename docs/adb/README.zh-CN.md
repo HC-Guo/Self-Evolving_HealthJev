@@ -2,7 +2,7 @@
 
 # Android Debug Bridge（ADB）安装与准备
 
-HealthClaw 中饮食计划真机搜索、手机端工具链、一键健康分析等能力依赖本机可用的 `adb` 与已授权连接的 Android 设备。本文说明如何在常见环境下安装并验证。
+HealthJev 中饮食计划真机搜索、手机端工具链、一键健康分析等能力依赖本机可用的 `adb` 与已授权连接的 Android 设备。本文说明如何在常见环境下安装并验证。
 
 ---
 
@@ -60,7 +60,7 @@ sudo apt install android-tools-adb
 
 ---
 
-## 3. 与 HealthClaw 相关的环境变量（按需）
+## 3. 与 HealthJev 相关的环境变量（按需）
 
 真机美团推送、饮食计划与 `fsapp.py` 联调时，仓库内不同脚本对默认 ADB 端口约定可能不一致，**建议显式指定**当前实际可用的服务地址，例如：
 

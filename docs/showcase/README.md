@@ -1,8 +1,8 @@
 **Languages:** English | [简体中文](README.zh-CN.md)
 
-# HealthClaw Demo Gallery
+# HealthJev Demo Gallery
 
-Typical HealthClaw usage scenarios in one place.
+Typical HealthJev usage scenarios in one place.
 
 **On this page:**  
 [Cross-device demo](#cross-device-demo) · [Amap: nearest hospital](#amap-find-the-nearest-hospital) · [Genomics](#genomics-data-analysis) · [Proteomics](#proteomics-data-analysis) · [Imaging](#imaging-data-analysis) · [Xiaomi Health import](#xiaomi-health-data-import-and-analysis) · [Huawei Health import](#huawei-health-data-import-and-analysis)
@@ -50,7 +50,7 @@ but tries to explain what happened so the right person gets it in time and under
 
 
 <p align="left"><em>☝️ When you feel unwell, you rarely lack the phrase “see a doctor soon”—you lack the very next actionable step.<br/>
-HealthClaw runs the map leg for you: shortlist nearby suitable hospitals,<br/>
+HealthJev runs the map leg for you: shortlist nearby suitable hospitals,<br/>
 and bridge “knowing you should go” to “actually starting to go”—you only decide whether to leave.</em></p>
 
 ---
@@ -73,7 +73,7 @@ and bridge “knowing you should go” to “actually starting to go”—you on
 
 
 <p align="left"><em>☝️ Genomics feels impenetrable?<br/>
-HealthClaw can read PLINK genetic data to help clinicians, researchers, or individuals with basic parsing and first-pass analysis,<br/>
+HealthJev can read PLINK genetic data to help clinicians, researchers, or individuals with basic parsing and first-pass analysis,<br/>
 turning heavy pipelines into easier-to-read takeaways.</em></p>
 
 ---
@@ -96,7 +96,7 @@ turning heavy pipelines into easier-to-read takeaways.</em></p>
 
 
 <p align="left"><em>☝️ Wondering what proteomics might imply clinically?<br/>
-HealthClaw can analyze patient protein data and surface potential inflammatory, metabolic, or disease-associated signals,<br/>
+HealthJev can analyze patient protein data and surface potential inflammatory, metabolic, or disease-associated signals,<br/>
 to assist clinicians and help patients understand.</em></p>
 
 ---
@@ -119,7 +119,7 @@ to assist clinicians and help patients understand.</em></p>
 
 
 <p align="left"><em>☝️ Skin changes and you are unsure how serious it is or whether to act now—common and stressful.<br/>
-This demo shows how HealthClaw ingests imaging, runs a first analysis, and gives advice closer to everyday decisions,<br/>
+This demo shows how HealthJev ingests imaging, runs a first analysis, and gives advice closer to everyday decisions,<br/>
 so “watch and wait” vs “go soon” is less of a pure guess.</em></p>
 
 ---

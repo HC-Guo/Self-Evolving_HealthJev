@@ -1,6 +1,6 @@
 **语言：** [English](README.md) | 简体中文
 
-# HealthClaw 飞书 Bot 配置说明
+# HealthJev 飞书 Bot 配置说明
 
 > **快速入口**：主文档 [README.zh-CN.md](../../README.zh-CN.md)「快速开始 → 安装基础依赖」中有 pip 与能力对照；本文给出**可操作的完整配置路径**，含跨设备告警与真机美团链路。
 
@@ -124,7 +124,7 @@ python binding_cli.py --server-url http://127.0.0.1:8790 list
 ```bash
 export ADB_SERVER_SOCKET=tcp:127.0.0.1:15038
 export HEALTHCLAW_ENABLE_PHONE_MEITUAN=1
-# 可选：export HEALTHCLAW_SHARED_HOME=/path/to/shared/healthclaw
+# 可选：export HEALTHCLAW_SHARED_HOME=/path/to/shared/healthjev
 python fsapp.py
 ```
 
