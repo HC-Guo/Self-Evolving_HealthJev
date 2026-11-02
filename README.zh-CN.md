@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="./docs/readme_media/healthclaw.png" alt="HealthJev" width="220" />
+<img src="./docs/readme_media/healthjev.png" alt="HealthJev" width="220" />
 
 <br/>
 <br/>

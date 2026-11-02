@@ -2,7 +2,7 @@
 
 # Android Debug Bridge (ADB): Installation and Setup
 
-Meal-planning on a real device, mobile toolchains, one-click health analysis, and related HealthClaw features require a working `adb` on your machine and a connected, authorized Android device. This guide covers installation and verification on common platforms.
+Meal-planning on a real device, mobile toolchains, one-click health analysis, and related HealthJev features require a working `adb` on your machine and a connected, authorized Android device. This guide covers installation and verification on common platforms.
 
 ---
 
@@ -60,7 +60,7 @@ On the same LAN you can use USB once with `adb tcpip 5555`, then `adb connect <p
 
 ---
 
-## 3. Environment variables relevant to HealthClaw (as needed)
+## 3. Environment variables relevant to HealthJev (as needed)
 
 For Meituan push on a real device, meal plans, and `fsapp.py` integration, scripts may assume different default ADB ports. **Prefer setting** the address your setup actually uses, for example:
 

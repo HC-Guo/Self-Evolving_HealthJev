@@ -1,6 +1,6 @@
 # Stage4 physionet2012_sofa_severity verified-feedback SOP
 
-Stored inside the cloned HealthClaw repository under memory/L3_sops.
+Stored inside the cloned HealthJev repository under memory/L3_sops.
 Induced only from previous completed L4 episodes in this prequential run.
 The current case label is never available before prediction.
 

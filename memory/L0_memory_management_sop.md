@@ -1,4 +1,4 @@
-# HealthClaw — 记忆管理 SOP (L0)
+# HealthJev — 记忆管理 SOP (L0)
 
 ## 0. 核心公理 (Core Axioms - 最高优先级)
 

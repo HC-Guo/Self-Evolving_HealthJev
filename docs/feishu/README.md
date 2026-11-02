@@ -1,6 +1,6 @@
 **Languages:** English | [简体中文](README.zh-CN.md)
 
-# HealthClaw Feishu (Lark) Bot Setup
+# HealthJev Feishu (Lark) Bot Setup
 
 > **Quick link:** The main repo [README.md](../../README.md) (“Quick start → Install base dependencies”) lists pip packages and capability matrix; this document is the **end-to-end operational path**, including cross-device alerts and on-device Meituan flows.
 
@@ -124,7 +124,7 @@ Requires: working `adb`, authorized device, **`ADB_SERVER_SOCKET` explicitly** s
 ```bash
 export ADB_SERVER_SOCKET=tcp:127.0.0.1:15038
 export HEALTHCLAW_ENABLE_PHONE_MEITUAN=1
-# optional: export HEALTHCLAW_SHARED_HOME=/path/to/shared/healthclaw
+# optional: export HEALTHCLAW_SHARED_HOME=/path/to/shared/healthjev
 python fsapp.py
 ```
 
