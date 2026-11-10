@@ -32,6 +32,17 @@
 
 ---
 
+## 🤗 Hugging Face
+
+- **论文主页**：<https://huggingface.co/papers/2607.13940>
+- **arXiv**：<https://arxiv.org/abs/2607.13940>
+- **模型（JevGate-9B）**：<https://huggingface.co/lihaoran51/JevGate-9B>
+- **纵向基准数据集**：<https://huggingface.co/datasets/lihaoran51/healthjev-longitudinal-benchmark>
+
+> 六任务生物医学评测套件需要用到我们论文中引用的原始源数据集（例如 MIMIC-IV）。由于数据使用协议（例如 PhysioNet DUA）的限制，我们无法重新分发原始数据。
+
+---
+
 ## 📣 最新动态
 
 - **2026 年 10 月 26 日**：HealthJev 发布：MIMIC-IV 纵向基准与六任务生物医学评测套件已开放于 [`release/`](./release)；JevGate-9B 权重托管于 Hugging Face（校验信息与下载说明见 `release/jevgate_9b/`）。
