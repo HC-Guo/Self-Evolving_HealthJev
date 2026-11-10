@@ -32,6 +32,17 @@ An open-source self-evolving agent stack for medical consultation support, perso
 
 ---
 
+## 🤗 Hugging Face
+
+- **Paper page**: <https://huggingface.co/papers/2607.13940>
+- **arXiv**: <https://arxiv.org/abs/2607.13940>
+- **Model (JevGate-9B)**: <https://huggingface.co/lihaoran51/JevGate-9B>
+- **Longitudinal benchmark**: <https://huggingface.co/datasets/lihaoran51/healthjev-longitudinal-benchmark>
+
+> The six-task biomedical evaluation suite requires the original source datasets (e.g., MIMIC-IV) referenced in our paper. Due to data use agreements (e.g., the PhysioNet DUA), we cannot redistribute the original data.
+
+---
+
 ## What’s new
 
 - **October 26, 2026:** HealthJev release: the longitudinal MIMIC-IV benchmark and the six-task biomedical evaluation suite are now available under [`release/`](./release); JevGate-9B weights are hosted on Hugging Face (see `release/jevgate_9b/` for checksums and download instructions).
